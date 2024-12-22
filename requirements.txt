@@ -1,0 +1,7 @@
+requests
+json
+os
+csv
+datetime
+base64
+cryptography
